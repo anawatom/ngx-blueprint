@@ -1,0 +1,3 @@
+﻿* http://swimlane.github.io/ngx-datatable/#inline-edit
+
+https://github.com/akveo/ng2-smart-table

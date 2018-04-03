@@ -1,0 +1,6 @@
+mySQL DB: 
+http://1.10.185.85 3306
+dbschema: CAT_PM
+user: scmcat
+Password:  P@ssw0rd
+

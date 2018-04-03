@@ -1,0 +1,35 @@
+@import '~scss/variables';
+
+#headerContainer {
+    height: $HEADER_HEIGHT;
+    background-color: red;
+}
+#mainContainer {
+    margin-top: $MAIN_CONTAINER_MARGIN_TOP;
+    margin-bottom: $MAIN_CONTAINER_MARGIN_BOTTOM;
+}
+#footerContainer {
+    height: $FOOTER_HEIGHT;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #cecece;
+    #responsiveImg {
+        height: 150px;
+        width: auto;
+    }
+    #copyrightText {
+        margin: 0;
+    }
+    .link {
+        font-size: 0.75rem;
+        &:not(:first-of-type) {
+            margin-left: .5rem;
+            padding-left: .5rem;
+            border-left: 1px solid #000;
+        }
+    }
+    #goToTopLink {
+        display: block;
+        font-size: 1rem;
+    }
+}

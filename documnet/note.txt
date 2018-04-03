@@ -1,0 +1,8 @@
+- Layout
+https://medium.com/@motcowley/angular-folder-structure-d1809be95542
+
+- Material icons
+https://theinfogrid.com/tech/developers/angular/material-icons-angular-5/
+
+- Angular with SCSS
+https://scotch.io/tutorials/using-sass-with-the-angular-cli

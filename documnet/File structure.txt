@@ -1,0 +1,2 @@
+* https://medium.com/@motcowley/angular-folder-structure-d1809be95542
+https://angular.io/guide/styleguide#overall-structural-guidelines
